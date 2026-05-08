@@ -17,4 +17,5 @@ model.fit(X, y)
 prediction = model.predict([[6]])
 
 # Print result
-print("Prediction for 6 is:", prediction[0])
+print("Prediction for 8 is:", prediction[0])
+
